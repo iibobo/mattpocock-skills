@@ -1,0 +1,3 @@
+interface:
+  display_name: "Scaffold Skill Plugin"
+  short_description: "Build a curated agent-skills plugin repository"
